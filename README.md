@@ -11,7 +11,7 @@
 - 💡 Always eager to learn new skills and explore the world of coding.
 - 💻 Currently learning **Supabase** for creating databases and modern web apps.
 - 🛠️ **Top Skills:**  
-  `HTML` | `CSS` | `Bootstrap` | `JavaScript`
+  `HTML` | `CSS` | `Bootstrap` | `JavaScript` | `Firebase`
 - 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/aeiman-fayyaz-5a74281b1/)
 
 ---
